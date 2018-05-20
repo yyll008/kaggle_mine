@@ -1,0 +1,5 @@
+kaggle challenge:
+https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
+
+bash:
+kaggle competitions download -c jigsaw-toxic-comment-classification-challenge
